@@ -1,0 +1,16 @@
+
+Data Analytic Results:
+
+Average income of females: $28646.32
+Average income of males: $27225.83
+
+Number of females with a mortgage and savings account: 71
+
+Intercity males with car & 1 child: 15
+Rural region males with &  1 child: 9
+Suburban males with car & 1 child: 3
+
+Town region males with car & 1 child: 7
+
+Guruteja
+Sat Mar 18 17:45:12 CDT 2023
